@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="200" fill="url(#g)"/>
+  <g opacity="0.08">
+    <path d="M -880 150 q 110 -16 220 0 q 110 16 220 0 q 110 -16 220 0 q 110 16 220 0 q 110 -16 220 0 q 110 16 220 0 q 110 -16 220 0 q 110 16 220 0 q 110 -16 220 0 q 110 16 220 0 q 110 -16 220 0 q 110 16 220 0 L 1760 200 L -880 200 Z" fill="#ffffff"/>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-440 0" dur="9s" repeatCount="indefinite"/>
+  </g>
+  <g opacity="0.13">
+    <path d="M -880 168 q 110 -12 220 0 q 110 12 220 0 q 110 -12 220 0 q 110 12 220 0 q 110 -12 220 0 q 110 12 220 0 q 110 -12 220 0 q 110 12 220 0 q 110 -12 220 0 q 110 12 220 0 q 110 -12 220 0 q 110 12 220 0 L 1760 200 L -880 200 Z" fill="#ffffff"/>
+    <animateTransform attributeName="transform" type="translate" from="-440 0" to="0 0" dur="7s" repeatCount="indefinite"/>
+  </g>
+  <text x="440" y="92" text-anchor="middle" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="1">Danil Panov</text>
+  <text x="440" y="128" text-anchor="middle" font-size="20" font-weight="500" fill="#ffffff" opacity="0.92">Frontend &amp; Fullstack Developer</text>
+</svg>
