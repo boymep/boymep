@@ -16,14 +16,14 @@
 
 <!-- ===== TYPING SUBTITLE ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=React+%2F+Next.js+%2F+TypeScript;5%2B+years+of+commercial+experience;Web3+%E2%80%A2+Telegram+Mini+Apps+%E2%80%A2+LLM;I+build+products+end-to-end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=React+%2F+Next.js+%2F+TypeScript;6%2B+years+of+commercial+experience;Web3+%E2%80%A2+Telegram+Mini+Apps+%E2%80%A2+LLM;I+build+products+end-to-end" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About me
 
-> **Frontend-first Fullstack developer** with **5+ years** of commercial experience.
+> **Frontend-first Fullstack developer** with **6+ years** of commercial experience.
 > I take products end-to-end — from UI and design systems to Node.js APIs and deployment.
 
 &nbsp;
