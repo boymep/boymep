@@ -28,7 +28,9 @@
 
 &nbsp;
 
-🏢 &nbsp; **Companies** &nbsp;—&nbsp; Cloud.ru · TokenSpot · Air Production · Now Agency · Lost Lore
+🏢 &nbsp; **Companies** &nbsp;—&nbsp; OZON Bank · Cloud.ru · TokenSpot · Air Production · Now Agency · Lost Lore
+
+🏦 &nbsp; **Currently at** &nbsp;—&nbsp; [OZON Bank](https://finance.ozon.ru) — frontend developer
 
 🔧 &nbsp; **Specialties** &nbsp;—&nbsp; Web3 · Telegram Mini Apps · LLM integrations · Design systems · SEO & localization
 
@@ -65,6 +67,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[OZON Bank](https://finance.ozon.ru)** | Official website of Ozon Bank — cards, deposits, credit and banking for businesses and marketplace sellers | Svelte · TypeScript · Playwright · Jest |
 | **[Workice](https://workice.ru)** ⭐ | AI-powered SaaS for managing projects and orders | Next.js · TypeScript · Redux · LLM |
 | **[TokenSpot](https://tokenspot.com)** | Licensed crypto exchange — web and mobile, with a trading terminal | Next.js · React Native · TypeScript · GraphQL · Redux · MUI |
 | **[Dream Island](https://dreamisland.ru)** | Resort and lifestyle platform; led the frontend | Next.js · TypeScript · Redux · next-intl |
